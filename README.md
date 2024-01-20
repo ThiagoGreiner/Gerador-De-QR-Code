@@ -15,5 +15,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O gerador de QR Code é um projeto que visa simplificar o dia dia das pessoas.
+O gerador de QR Code é um projeto que visa simplificar o dia a dia das pessoas.
 Podendo carregar determinadas informações ou URLs em um pratico QR Code.
